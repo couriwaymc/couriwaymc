@@ -1,5 +1,4 @@
-## Hi there 👋
-
+hi i had a readme but i was an idiot and deleted it ...!
 <!--
 **couriwaymc/couriwaymc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
